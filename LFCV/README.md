@@ -7,3 +7,7 @@ Google Drive Link - https://drive.google.com/drive/folders/1RM22ZSW0ZvWHKEHcQRDN
 (Student Name - PRN - Roll. No.)
 1. [Prakul Singh - 1032233410 - 44]
 2. [Vedika Rana - 1032233559 - 49]
+
+Batch : T.Y. B.Tech CSE (Artificial Intelligence & Data Science)
+Panel : B (B2)
+Session : 2025-26
